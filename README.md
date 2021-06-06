@@ -1,7 +1,7 @@
 [twitter]: https://www.twitter.com/rustyelectron
 [medium]: https://medium.com/@rustyelectron
 [linkedin]: https://www.linkedin.com/in/pritom-gogoi/
-[gmail]: mailto:adi1090x@gmail.com
+[gmail]: mailto:pritom.gogoi101@gmail.com
 
 <!--
 **rusty-electron/rusty-electron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
