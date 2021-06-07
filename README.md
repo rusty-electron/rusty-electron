@@ -23,6 +23,7 @@ Hi, I'm Pritom.
 - 🔭 I’m currently studying *deep learning papers*
 - 🌱 I’m currently learning `pytorch` and `C++`
 - ⚡ 2021 goals - improve my study culture
+- 🗒️ here is [my blog](https://rustyelectron.live) and [my resume](https://rustyelectron.live/resume/index.html)
 
 ### social links:
 
