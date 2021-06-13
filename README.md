@@ -35,8 +35,8 @@ Hi, I'm Pritom.
 
 ### languages and tools:
 
-[<img align="left" alt="archlinux" width="21px" src="https://symbols.getvecta.com/stencil_94/16_raspberry-pi-icon.087cac93d9.svg" />](https://www.google.com/search?&q=archlinux)
-[<img align="left" alt="archlinux" height="27px" src="https://symbols.getvecta.com/stencil_74/97_arduino-official.771fb3b943.svg" />](https://www.google.com/search?&q=archlinux)
+[<img align="left" alt="archlinux" width="21px" src="https://symbols.getvecta.com/stencil_94/16_raspberry-pi-icon.087cac93d9.svg" />](https://www.google.com/search?&q=raspberrypi)
+[<img align="left" alt="archlinux" height="27px" src="https://symbols.getvecta.com/stencil_74/97_arduino-official.771fb3b943.svg" />](https://www.google.com/search?&q=arduino)
 [<img align="left" alt="archlinux" width="24px" src="https://symbols.getvecta.com/stencil_74/94_arch-linux-icon.ef027ae7a3.svg" />](https://www.google.com/search?&q=archlinux)
 [<img align="left" alt="tensorflow" width="24px" src="https://symbols.getvecta.com/stencil_97/43_tensorflow-icon.f7092db2bd.svg" />](https://www.google.com/search?&q=tensorflow)
 [<img align="left" alt="pytorch" width="22px" src="https://symbols.getvecta.com/stencil_92/77_pytorch-icon.3e1681b72a.svg" />](https://www.google.com/search?&q=pytorch)
