@@ -37,9 +37,10 @@ Here are some ideas to get you started:
 
 ```yaml
 languages: Python, C, C++, bash
-familiar ml/ai tools: tensorflow, pytorch, flask, fastai
+familiar ml/ai tools: tensorflow, pytorch, fastai
 familiar embedded tech: AVR, STM32, Raspberry Pi, ESP32
-
+  - more: flask, fastapi, gnu makefile
+  
 OS: Arch Linux
 editors: Vim, emacs
 ```
