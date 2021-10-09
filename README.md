@@ -2,6 +2,7 @@
 [medium]: https://medium.com/@rustyelectron
 [linkedin]: https://www.linkedin.com/in/pritom-gogoi/
 [gmail]: mailto:pritom.gogoi101@gmail.com
+[kaggle]: https://www.kaggle.com/rustyelectron
 
 <!--
 **rusty-electron/rusty-electron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,7 +27,7 @@ Here are some ideas to get you started:
 - 🗒️ here is [my blog](https://rustyelectron.live) and [my resume](https://rustyelectron.live/resume/index.html)
 
 ### `social links:`
-
+[<img align="left" alt="kaggle" width="22px" src="https://www.iconfinder.com/icons/4519136/download/svg/4096" />][kaggle]
 [<img align="left" alt="twitter" width="22px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />][twitter]
 [<img align="left" alt="medium" width="22px" src="https://image.flaticon.com/icons/png/512/2111/2111502.png" />][medium]
 [<img align="left" alt="linkedin" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
