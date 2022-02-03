@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently studying *deep learning papers*
 - 🌱 I’m currently learning `pytorch` and `C++`
-- ⚡ 2021 goals - improve my study culture
+- ⚡ 2022 goals - improve my study culture (and complete my pending coursera courses 🥲)
 - 🗒️ here is [my blog](https://rustyelectron.live) and [my resume](https://rustyelectron.live/resume/index.html)
 
 ### `social links:`
