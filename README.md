@@ -49,3 +49,7 @@ editors: Vim, emacs
 <p align="center">
   <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=rusty-electron&show_icons=true&include_all_commits=true&hide_border=true&theme=dracula" />
 </p>
+
+<!-- <p align="center">
+          <img alt="github lang stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rusty-electron&layout=compact&theme=dracula&hide_border=true"/>
+</p> -->
