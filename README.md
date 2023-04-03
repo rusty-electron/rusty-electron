@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently studying *deep learning papers*
 - 🌱 I’m currently learning `pytorch` and `C++`
 - ⚡ 2022 goals - improve my study culture (and complete my pending coursera courses 🥲)
-- 🗒️ here is [my blog](https://rustyelectron.live) and [my resume](https://rustyelectron.live/resume/index.html)
+- 🗒️ here is [my blog](https://rusty-electron.github.io) and [my resume](https://rusty-electron.github.io/resume/index.html)
 
 ### `social links:`
 [<img align="left" alt="kaggle" width="22px" src="https://www.iconfinder.com/icons/4519136/download/svg/4096" />][kaggle]
