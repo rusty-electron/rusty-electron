@@ -43,7 +43,7 @@ familiar embedded tech: AVR, STM32, Raspberry Pi, ESP32
   - other: flask, fastapi, gnu makefile
   
 OS: Arch Linux
-editors: Vim, emacs
+editors: Vim, neovim
 ```
 
 <p align="center">
